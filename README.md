@@ -1,5 +1,10 @@
 # Moments
 
+## Project Momentos where we can upload images and insert comments for this moment as well as update the saved information of the post
+
+### Technology used :
+
+Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
 ## Development server
